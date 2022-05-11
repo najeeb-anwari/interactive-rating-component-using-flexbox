@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solotion URL](https://github.com/najeeb-anwari/interactive-rating-component-using-flexbox)
-- Live Site URL: [Live URL]()
+- Live Site URL: [Live URL](https://najeeb-anwari.github.io/interactive-rating-component-using-flexbox/)
 
 ## My process
 
